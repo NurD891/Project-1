@@ -10,7 +10,7 @@ public class Main {
         for (char c : n.toCharArray()) {
             sum += c;
         }
-
+         // somthing
         if (sum % 3 == 0) {
             System.out.println("YES");
         } else {
